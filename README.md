@@ -124,6 +124,50 @@ Erstelle die Kategorien, die für dein Rezept sinnvoll sind! Einige Beispiele:
 - Frühstück, Hauptgericht, Dessert, Suppe, Salat, Vorspeise, Beilage, Snack
 - Italienisch, Indisch, Japanisch, Mexikanisch, Französisch, Thai, usw.
 
+## Hugo installieren
+
+Um das Projekt lokal auszuführen, muss Hugo installiert sein (mindestens Version 0.128.0). Die Anleitung je Betriebssystem:
+
+### Windows
+
+1. **Scoop (empfohlen):**
+   ```powershell
+   scoop install hugo-extended
+   ```
+2. **Chocolatey:**
+   ```powershell
+   choco install hugo-extended
+   ```
+3. **Manuell:** Release von [gohugo.io](https://github.com/gohugoio/hugo/releases) herunterladen, entpacken und den Ordner zur `PATH`-Umgebungsvariablen hinzufügen.
+
+### macOS
+
+```bash
+brew install hugo
+```
+
+### Linux
+
+**Debian/Ubuntu:**
+```bash
+sudo apt install hugo
+```
+
+**Arch Linux:**
+```bash
+sudo pacman -S hugo
+```
+
+**Fedora:**
+```bash
+sudo dnf install hugo
+```
+
+Installation überprüfen:
+```bash
+hugo version
+```
+
 ## Lokal ausführen
 
 ```bash
