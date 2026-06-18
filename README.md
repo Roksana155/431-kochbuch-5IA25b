@@ -24,7 +24,7 @@ Das fertige Kochbuch findest du **[hier](https://bbw-it.github.io/431-kochbuch-5
 | Simon    | Fajitas                      |
 | Tset     | Chicken Fried Rice           |
 | Rico     | Kaiserschmarrn               |
-| Ranja    | Ofenlachs    |
+| Ranja    | Ofenlachs                    |
 | Jakub    | Schoko-Tassenkuchen          |
 | Roksana  | Pfannkuchen                  |
 | Tim      | Spaghetti Bolognese          |
@@ -34,7 +34,7 @@ Das fertige Kochbuch findest du **[hier](https://bbw-it.github.io/431-kochbuch-5
 | Leon     | Poulet Tenders               |
 | Robin    | Erdbeer-Muffins              |
 | Jeremy   | Chocolate Chip Cookies       |
-| Oliver   | Banancakes                  |
+| Oliver   | Banancakes                   |
 | Basim    | Poulet-Stroganov             |
 | Nolan    | Kladdkaka                    |
 | Linus    | Mac n' Cheese                |
@@ -50,9 +50,9 @@ Alle `.md`-Dateien und Bilder müssen wie folgt benannt werden:
 
 ## Rezept beisteuern
 
-1. Eine neue `.md`-Datei in `content/recipes/` erstellen mit einem URL-freundlichen Dateinamen (z.B. `mein-rezept.md`). Am einfachsten mit der Vorlage:
+1. Eine neue `.md`-Datei in `/recipes/` erstellen mit einem URL-freundlichen Dateinamen (z.B. `mein-rezept.md`). Am einfachsten mit der Vorlage:
    ```bash
-   hugo new content/recipes/mein-rezept.md
+   hugo new /recipes/mein-rezept.md
    ```
 2. **Ein Bild hinzufügen:** Querformat (ca. 8:5, z.B. 800×500) nach `static/images/recipes/` legen und im Front Matter unter `image:` eintragen. Ohne Bild wird automatisch ein Platzhalter angezeigt.
 3. Das Front Matter ausfüllen und den Rezeptinhalt schreiben (siehe Vorlage unten).
