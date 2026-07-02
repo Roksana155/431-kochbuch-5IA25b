@@ -22,7 +22,7 @@ cook_time: "15 Min."
 ingredients:
   # Teig
   - "2 Eier"
-  - "120g mehl"
+  - "120g Mehl"
   - "150g Griechischer Joghurt"
   - "150ml Hafermilch"
   - "100ml Mineralwasser mit Kohlensäure"
