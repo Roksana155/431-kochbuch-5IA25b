@@ -5,7 +5,7 @@ title: " Pfannkuchen mit Griechischem Joghurt"
 date: 2026-06-18
 draft: false
 description: "Griechischer Joghurt Pfannkuchen mit Honig, frischen Früchten und Zimt."
-image: "images/recipes/joghurt-pfannkuchen.jpg"
+image: "images/recipes/Pfannkuchen.jpeg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Frühstück", "Dessert"]
@@ -23,7 +23,7 @@ ingredients:
   # Teig
   - "2 Eier"
   - "120g mehl"
-  - "150g Grichischenjoghurt"
+  - "150g Griechischer Joghurt"
   - "150ml Hafermilch"
   - "100ml Mineralwasser mit Kohlensäure"
   - "1 Prise Salz"
@@ -38,7 +38,7 @@ ingredients:
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
   - "Eier, griechischen Joghurt, Hafermilch, Mineralwasser, Mehl und Salz in eine Schüssel geben."
-  - "AAlles mit einem Schneebesen oder Mixer zu einem glatten, eher flüssigen Teig verrühren."
+  - "Alles mit einem Schneebesen oder Mixer zu einem glatten, eher flüssigen Teig verrühren."
   - "Den Teig etwa 5 Minuten ruhen lassen, damit die Pfannkuchen weicher werden."
   - "Eine beschichtete Pfanne auf mittlere Hitze stellen."
   - "Eine kleine Kelle Teig in die Pfanne geben und die Pfanne sofort schwenken, damit sich der Teig dünn verteilt."
