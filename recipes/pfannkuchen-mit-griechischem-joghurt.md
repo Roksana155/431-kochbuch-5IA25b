@@ -8,13 +8,13 @@ image: "images/recipes/Pfannkuchen.jpeg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Frühstück", "Dessert"]
-tags: ["Pfannkuchen", "Joghurt", "Früchte", "Honig", "schnell","]
+tags: ["Pfannkuchen", "Joghurt", "Früchte", "Honig", "schnell"]
 contributors: ["Roksana Bzdyrak"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 2
-prep_time: "10 Min."
+prep_time: "15 Min."
 cook_time: "15 Min."
 
 # ── Zutaten ──────────────────────────────────────────────
@@ -36,12 +36,12 @@ ingredients:
 
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
-  - "Eier, griechischen Joghurt, Hafermilch, Mineralwasser, Mehl und Salz in eine Schüssel geben."
+  - "Eier,Joghurt, Hafermilch, Mineralwasser, Mehl und Salz in eine Schüssel geben."
   - "Alles mit einem Schneebesen oder Mixer zu einem glatten, eher flüssigen Teig verrühren."
   - "Den Teig etwa 5 Minuten ruhen lassen, damit die Pfannkuchen weicher werden."
   - "Eine beschichtete Pfanne auf die mittlere Hitze stellen."
   - "Eine kleine Kelle Teig in die Pfanne geben und die Pfanne sofort schwenken, damit sich der Teig dünn verteilt."
-  - "Den Pfannkuchen etwa 1 Minute backen, bis der Rand leicht trocken wird, dann wenden und weitere 30 Sekunden backen."
+  - "Den Pfannkuchen etwa eine Minute backen, bis der Rand leicht trocken wird, dann wenden und weitere 30 Sekunden backen."
   - "Alle Pfannkuchen nacheinander ausbacken und auf einem Teller stapeln."
   - "Joghurt oder Hüttenkäse auf die Pfannkuchen streichen."
   - "Beeren oder andere Früchte daraufgeben."
